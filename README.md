@@ -35,4 +35,4 @@ We expect you to take full advantage of spring framework and show us that you ar
 
 * Good Git commit history
 * Clean, understandable code
-* Either clear experience with the technology we use (namely Laravel and Bootstrap) or the ability to pick them up quickly by referring to the documentation
+* Either clear experience with the technology we use or the ability to pick them up quickly by referring to the documentation
