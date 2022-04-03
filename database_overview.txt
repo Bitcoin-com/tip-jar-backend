@@ -1,0 +1,17 @@
+Created a database in MySQL. Added a table to it with following details:
+
+Database Name: tipjar
+Table Name: tip_jar
+
+Table Schema:
+tip_jar (
+    id int auto_increment PRIMARY KEY,
+    user_id int,
+    total_amount REAL,
+    no_of_person int,
+    tip_percentage REAL,
+    total_tip REAL,
+    tip_per_person REAL,
+    image_url varchar(255),
+    saved_on DATETIME DEFAULT CURRENT_TIMESTAMP
+)
